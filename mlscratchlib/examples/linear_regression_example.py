@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 from sklearn.datasets import load_diabetes
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
-from mlscratch.supervised.linear_regression import LinearRegression
-from mlscratch.utils.visualization import Plotter
+from mlscratchlib.supervised.linear_regression import LinearRegression
+from mlscratchlib.utils.visualization import Plotter
 
 # Load the diabetes dataset
 diabetes = load_diabetes()

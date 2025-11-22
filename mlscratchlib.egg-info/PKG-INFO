@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: mlscratchlib
+Version: 0.1
+Author: PATEL VAIBHAV
+Author-email: vaibhav1211patel@gmail.com
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-dist
